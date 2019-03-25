@@ -26,7 +26,7 @@ If will fetch the instance id and make a search to locate the country domain.
 Then if will take a snapshot ,Then Control go to actions Then the instance start in stop Vice versa.
  
  # Email- Report
-    There the tag option will be clicked. Then the Ownermail-id is verified.
+   There the tag option will be clicked. Then the Ownermail-id is verified.
 A notification will be send to the owner.
 Finally a status report will be generated well hold the status details of the stopped servers.
 
