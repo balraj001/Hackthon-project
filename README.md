@@ -13,3 +13,10 @@ Then Control go to actions Then the instance start in stop Vice versa.
 There the tag option will be clicked. Then the Ownermail-id is verified.
 A notification will be send to the owner.
 Finally a status report will be generated well hold the status details of the stopped servers.
+
+# Modules
+1.Email configuration(outlook)
+2.AWS Status check
+3.Email-Report
+
+# Email configuration
